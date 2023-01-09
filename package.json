@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "devextreme": "22.2.3",
+    "devextreme-react": "22.2.3",
+    "react-bootstrap": "^2.7.0",
+    "react-router-dom": "^6.6.1"
+  }
+}

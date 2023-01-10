@@ -4,7 +4,7 @@ import { Popup } from "devextreme-react";
 import { Home } from "./Home";
 
 
-export function Login() {
+export default function Login() {
     const [data,setData] = useState({
         email:'',
         state:'',

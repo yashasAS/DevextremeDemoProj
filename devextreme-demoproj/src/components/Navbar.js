@@ -6,10 +6,11 @@ export function Navbar() {
             <Container>
                 <Nav>
                     <Nav.Link  to="/"  as={NavLink}> Home  </Nav.Link>
-                    <Nav.Link  to="/Registration"  as={NavLink}> Registraion  </Nav.Link>
+                    <Nav.Link  to="/Registration"  as={NavLink}> Registration  </Nav.Link>
                     <Nav.Link  to="/Login"  as={NavLink}> Login </Nav.Link>
                 </Nav>
                 <Button style={{width:"3rem",height:"3rem"}} >
+                
                     user
                 </Button>
             </Container>

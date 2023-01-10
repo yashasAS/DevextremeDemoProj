@@ -1,7 +1,7 @@
 
 import React, {useState} from "react"
 import { Popup } from "devextreme-react";
-
+import './Registration.css'
 export function Login() {
     const [data,setData] = useState({
         email:'',
@@ -37,7 +37,7 @@ export function Login() {
                 </form>
             </center>
             </Popup>
-            
+            <h1 className='loginpagee'>click on home Button</h1>
         </div>
     );
 }

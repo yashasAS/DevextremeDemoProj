@@ -2,7 +2,7 @@ import React from "react";
 import { Route,Routes } from "react-router-dom";
 import { Container } from "react-bootstrap";
 import { Home } from "./pages/Home";
-import { Registration } from "./pages/Registration";
+import  Registration  from "./pages/Registration";
 import { Login } from "./pages/Login";
 import { Navbar } from "./components/Navbar";
 

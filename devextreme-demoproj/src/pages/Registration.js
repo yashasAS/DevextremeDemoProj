@@ -16,7 +16,7 @@ const handleSubmit=(e)=>
 console.log(name);
 }
     const [country, setCountry] = useState("Select");
-    const countries = ["India", "USA", "Canada"];
+    const countries = ["India", "USA", "Canada"];  
 
     const onNamechanged = (e) => {
         setName(e.value);

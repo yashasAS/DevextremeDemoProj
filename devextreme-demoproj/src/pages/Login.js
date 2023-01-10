@@ -1,7 +1,6 @@
 
 import React, {useState} from "react"
 import { Popup } from "devextreme-react";
-import { Home } from "./Home";
 
 export function Login() {
     const [data,setData] = useState({

@@ -1,7 +1,3 @@
-
-import React, {useState} from "react"
-import { Popup } from "devextreme-react";
-
 export function Login() {
     const [data,setData] = useState({
         email:'',

@@ -10,6 +10,7 @@ export function Navbar() {
                     <Nav.Link  to="/Login"  as={NavLink}> Login </Nav.Link>
                 </Nav>
                 <Button style={{width:"3rem",height:"3rem"}} >
+                
                     user
                 </Button>
             </Container>

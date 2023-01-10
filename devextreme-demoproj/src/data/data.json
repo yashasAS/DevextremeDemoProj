@@ -1,76 +1,76 @@
 [{
     "Name": "Premier Buy",
-    "City": "Richfield",
+    "Country": "USA",
     "State": "Minnesota",
     "email": "premier@gmail.com"
 }, {
-    "Name": "ElectrixMax",
-    "City": "Naperville",
+    "Name": "ElectrixMax",  
+    "Country": "USA",
     "State": "Illinois",
     "email": "electrixmax@gmail.com"
 },{
     "Name": "Max",
-    "City": "Naperville",
+    "Country": "USA",
     "State": "Illinois",
     "email": "max@gmail.com"
 },{
     "Name": "Buy",
-    "City": "Richfield",
+    "Country": "USA",
     "State": "Minnesota",
     "email": "buy@gmail.com"
 }, {
     "Name": "Braeburn",
-    "City": "Cupertino",
+    "Country": "USA",
     "State": "California",
     "email": "braeburn@gmail.com"
 },{
     "Name": "Premier Buy",
-    "City": "Richfield",
+    "Country": "USA",
     "State": "Minnesota",
     "email": "premie@gmail.com"
 }, {
     "Name": "ElectrixMax",
-    "City": "Naperville",
+    "Country": "USA",
     "State": "Illinois",
     "email": "electrixma@gmail.com"
 },{
     "Name": "Max",
-    "City": "Naperville",
+    "Country": "USA",
     "State": "Illinois",
     "email": "may@gmail.com"
 },{
     "Name": "Buy",
-    "City": "Richfield",
+    "Country": "USA",
     "State": "Minnesota",
     "email": "but@gmail.com"
 }, {
     "Name": "Braeburn",
-    "City": "Cupertino",
+    "Country": "USA",
     "State": "California",
     "email": "braebur@gmail.com"
 },{
     "Name": "Premier Buy",
-    "City": "Richfield",
+    "Country": "USA",
     "State": "Minnesota",
     "email": "remier@gmail.com"
 }, {
     "Name": "ElectrixMax",
-    "City": "Naperville",
+    "Country": "USA",
     "State": "Illinois",
     "email": "lectrixmax@gmail.com"
 },{
     "Name": "Max",
-    "City": "Naperville",
+    "Country": "USA",
     "State": "Illinois",
     "email": "fax@gmail.com"
 },{
     "Name": "Buy",
-    "City": "Richfield",
+    "Country": "USA",
     "State": "Minnesota",
     "email": "auy@gmail.com"
 }, {
     "Name": "Braeburn",
-    "City": "Cupertino",
+    "Country": "USA",
     "State": "California",
     "email": "raeburn@gmail.com"
 }

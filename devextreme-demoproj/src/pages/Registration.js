@@ -4,18 +4,21 @@ import SelectBox from 'devextreme-react/select-box';
 import TextBox from 'devextreme-react/text-box';
 
 import './Registration.css'
+import { useLocalStorage } from './Hooks/useLocalStorage';
 
 export default function Registration() {
     const [name, setName] = useState(null);
     const [place, setPlace] = useState(null);
     const [mail, setMail] = useState(null);
+    const [value,setValue]=useLocalStorage(name,"");
+    
 const handleSubmit=(e)=>
 {
     e.preventDefault();
 console.log(name);
 }
     const [country, setCountry] = useState("Select");
-    const countries = ["India", "USA", "Canada"];
+    const countries = ["India", "USA", "Canada"];  
 
     const onNamechanged = (e) => {
         setName(e.value);
@@ -27,10 +30,17 @@ console.log(name);
 
       const onStatechanged = (e) => {
         setPlace(e.value);
+        setValue(e.value);
       }
       const onMailchanged = (e) => {
         setMail(e.value);
+        setValue(e.value);
       }
+
+      
+ 
+ 
+ 
 return (
   <div>
     <form onSubmit={handleSubmit}>
@@ -66,6 +76,7 @@ return (
 
     </div>
     <input type="Submit"/>
+    
     </form>
   
   </div>
